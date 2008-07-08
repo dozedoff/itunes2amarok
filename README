@@ -1,0 +1,28 @@
+itunes2amarok by muro
+
+http://code.google.com/p/itunes2amarok
+
+Legal note: Do whatever you want with the script.
+
+
+This script imports ratings from iTunes to Amarok.
+
+1.  Make sure all your music is already in the collection in Amarok.
+2.  Download the script.
+3.  Open Amarok and select *Plugins* from the menu.
+4.  Choose *Install new script*
+5.  Select the newly downloaded file - itunes2amarok.amarokscript.tar.gz
+6.  Run the newly installed script (in the "General" category)
+7.  Find and select your iTunes Library XML File - should be named "iTunes Music Library.xml"
+8.  Depending on the size of your library, get a cup of your favorite beverage
+9.  If your library is really big, why not go for lunch?
+
+
+Known issue
+
+* Some people report problems with accented characters. If you encounter such
+  problems, please send me a mail so I can fix it. If you can, send me a file
+  where this happens. Central european characters work well and I don't have
+  many songs with other international characters.
+
+In any case, should you encounter problems with the script, let me know on http://code.google.com/p/itunes2amarok.
